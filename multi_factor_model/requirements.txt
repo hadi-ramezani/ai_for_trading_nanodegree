@@ -3,7 +3,7 @@ colour==0.1.5
 cvxpy==1.0.3
 cycler==0.10.0
 pandas==0.19.2
-numpy==1.16.1
+numpy==1.22.0
 plotly==2.2.3
 pyparsing==2.2.0
 python-dateutil==2.6.1
